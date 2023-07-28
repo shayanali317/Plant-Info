@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PlantInfo" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#92C893</item>
+    </style>
+
+    <style name="Theme.PlantInfo" parent="Base.Theme.PlantInfo" />
+</resources>
